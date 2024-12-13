@@ -1,0 +1,52 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Morning brief podcast</title>
+        <link rel="self" type="application/atom+xml">https://ubscom-local-publish.nhe.netcentric.biz/dm/en/responsive-topic-page/components/podcast/podcast-slider-util/_jcr_content/mainpar/toplevelgrid_copy/col1/responsivepodcast_co.rss20.xml?campID=RSS</link>
+        <language>en</language>
+        <copyright>UBS AG</copyright>
+        <description>
+            <![CDATA[ Econ talk is an award-winning, weekly talk show about economics in daily life ]]>
+        </description>
+        <image>
+            <url>https://ubscom-local-publish.nhe.netcentric.biz/dm/en/responsive-topic-page/components/podcast/podcast-slider-util/_jcr_content/mainpar/toplevelgrid_copy/col1/responsivepodcast_co/image.500.low.927415916.img/UBS_Imagery_Technique_01_@2x.png</url>
+            <title>Morning brief podcast</title>
+            <link>https://ubscom-local-publish.nhe.netcentric.biz/dm/en/responsive-topic-page/components/podcast/podcast-slider-util/_jcr_content/mainpar/toplevelgrid_copy/col1/responsivepodcast_co.rss20.xml?campID=RSS</link>
+        </image>
+        <pubDate>Mon, 16 Sep 2024 15:54:47 +0200</pubDate>
+        <atom:link href="https://ubscom-local-publish.nhe.netcentric.biz/dm/en/responsive-topic-page/components/podcast/podcast-slider-util/_jcr_content/mainpar/toplevelgrid_copy/col1/responsivepodcast_co.rss20.xml?campID=RSS" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>dailyupdate_0907.mp3</title>
+            <link>https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0907.mp3</link>
+            <enclosure url="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0907.mp3" length="169" type="audio/mpeg"/>
+            <guid>https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0907.mp3</guid>
+            <pubDate>Mon, 16 Sep 2024 15:54:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>dailyupdate_0207.mp3</title>
+            <link>https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0207.mp3</link>
+            <enclosure url="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0207.mp3" length="216" type="audio/mpeg"/>
+            <guid>https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0207.mp3</guid>
+            <pubDate>Mon, 16 Sep 2024 15:54:47 +0200</pubDate>
+        </item>
+        <item>
+            <title>Impact Moderato</title>
+            <link>https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_extraDescription.mp3</link>
+            <description>
+                <![CDATA[ &lt;p&gt;Welcome to Apple.&lt;/p&gt;&lt;p&gt;In today&#39;s episode, ...&lt;/p&gt; ]]>
+            </description>
+            <enclosure url="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_extraDescription.mp3" length="27" type="audio/mpeg"/>
+            <guid>https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_extraDescription.mp3</guid>
+            <pubDate>Mon, 16 Sep 2024 15:54:45 +0200</pubDate>
+        </item>
+        <item>
+            <title>Impact Moderato</title>
+            <link>https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_oldDescription.mp3</link>
+            <description>
+                <![CDATA[ Welcome to Apple ]]>
+            </description>
+            <enclosure url="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_oldDescription.mp3" length="27" type="audio/mpeg"/>
+            <guid>https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_oldDescription.mp3</guid>
+            <pubDate>Mon, 16 Sep 2024 15:54:45 +0200</pubDate>
+        </item>
+    </channel>
+</rss>
