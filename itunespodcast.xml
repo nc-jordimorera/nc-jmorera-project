@@ -1,5 +1,5 @@
-<rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>Morning brief podcast</title>
         <link>https://ubscom-local-publish.nhe.netcentric.biz/dm/en/responsive-topic-page/components/podcast/podcast-slider-util.html</link>
@@ -7,15 +7,9 @@
         <copyright>UBS AG</copyright>
         <itunes:subtitle>Ad sea suscipit voluptaria, iusto inermis apeirian vim et.</itunes:subtitle>
         <itunes:author>John Doe</itunes:author>
-        <itunes:summary>
-            <![CDATA[ Econ talk is an award-winning, weekly talk show about economics in daily life ]]>
-        </itunes:summary>
-        <description>
-            <![CDATA[ Econ talk is an award-winning, weekly talk show about economics in daily life ]]>
-        </description>
+        <itunes:summary><![CDATA[Econ talk is an award-winning, weekly talk show about economics in daily life]]></itunes:summary>
+        <description><![CDATA[Econ talk is an award-winning, weekly talk show about economics in daily life]]></description>
         <itunes:type>episodic</itunes:type>
-        <podcast:locked owner="noreply@ubs.com">yes</podcast:locked>
-        <podcast:guid>929475fb-7865-4759-9f84-80afbfde5a01</podcast:guid>
         <itunes:owner>
             <itunes:name>Owner of the Podcast</itunes:name>
             <itunes:email>noreply@ubs.com</itunes:email>
@@ -24,103 +18,54 @@
             <itunes:category text="Business News"/>
         </itunes:category>
         <itunes:explicit>false</itunes:explicit>
-        <podcast:liveItem status="live" start="Mon Sep 16 15:54:47 CEST 2024" end="Mon Sep 16 15:54:47 CEST 2024">
-            <title>dailyupdate_0907.mp3</title>
-            <link>https://ubscom-local-publish.nhe.netcentric.biz/dm/en/responsive-topic-page/components/podcast/podcast-slider-util.html</link>
-            <guid isPermaLink="true">https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0907.mp3</guid>
-            <podcast:alternateEnclosure type="audio/mpeg" length="169" default="true">
-                <podcast:source uri="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0907.mp3"/>
-            </podcast:alternateEnclosure>
-            <enclosure url="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0907.mp3" length="169" type="audio/mpeg"/>
-        </podcast:liveItem>
         <item>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>dailyupdate_0907.mp3</itunes:title>
             <title>dailyupdate_0907.mp3</title>
             <enclosure url="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0907.mp3" length="169" type="audio/mpeg"/>
             <guid>https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0907.mp3</guid>
-            <pubDate>Mon, 16 Sep 2024 15:54:47 +0200</pubDate>
+            <pubDate>Mon, 16 Dec 2024 08:38:41 +0100</pubDate>
             <itunes:duration>02:49</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
-            <itunes:image href="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/images/UBS_Imagery_Technique_01_@2x.png"/>
+            <itunes:image href="/content/dam/dm/images/UBS_Imagery_Technique_01_@2x.png"/>
         </item>
-        <podcast:liveItem status="live" start="Mon Sep 16 15:54:47 CEST 2024" end="Mon Sep 16 15:54:47 CEST 2024">
-            <title>dailyupdate_0207.mp3</title>
-            <link>https://ubscom-local-publish.nhe.netcentric.biz/dm/en/responsive-topic-page/components/podcast/podcast-slider-util.html</link>
-            <guid isPermaLink="true">https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0207.mp3</guid>
-            <podcast:alternateEnclosure type="audio/mpeg" length="216" default="true">
-                <podcast:source uri="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0207.mp3"/>
-            </podcast:alternateEnclosure>
-            <enclosure url="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0207.mp3" length="216" type="audio/mpeg"/>
-        </podcast:liveItem>
         <item>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>dailyupdate_0207.mp3</itunes:title>
             <title>dailyupdate_0207.mp3</title>
             <enclosure url="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0207.mp3" length="216" type="audio/mpeg"/>
             <guid>https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/audios/dailyupdate_0207.mp3</guid>
-            <pubDate>Mon, 16 Sep 2024 15:54:47 +0200</pubDate>
+            <pubDate>Mon, 16 Dec 2024 08:38:41 +0100</pubDate>
             <itunes:duration>03:36</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
-            <itunes:image href="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/images/UBS_Imagery_Technique_01_@2x.png"/>
+            <itunes:image href="/content/dam/dm/images/UBS_Imagery_Technique_01_@2x.png"/>
         </item>
-        <podcast:liveItem status="live" start="Mon Sep 16 15:54:45 CEST 2024" end="Mon Sep 16 15:54:45 CEST 2024">
-            <title>Impact Moderato</title>
-            <description>
-                <p>Welcome to Apple.</p>
-                <p>In today's episode, ...</p>
-            </description>
-            <link>https://ubscom-local-publish.nhe.netcentric.biz/dm/en/responsive-topic-page/components/podcast/podcast-slider-util.html</link>
-            <guid isPermaLink="true">https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_extraDescription.mp3</guid>
-            <podcast:alternateEnclosure type="audio/mpeg" length="27" default="true">
-                <podcast:source uri="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_extraDescription.mp3"/>
-            </podcast:alternateEnclosure>
-            <enclosure url="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_extraDescription.mp3" length="27" type="audio/mpeg"/>
-        </podcast:liveItem>
         <item>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Impact Moderato</itunes:title>
             <title>Impact Moderato</title>
             <itunes:author>Pablo Castelo</itunes:author>
             <itunes:subtitle>Subtitle</itunes:subtitle>
-            <itunes:summary>
-                <![CDATA[ &lt;p&gt;Welcome to Apple.&lt;/p&gt;&lt;p&gt;In today&#39;s episode, ...&lt;/p&gt; ]]>
-            </itunes:summary>
-            <description>
-                <![CDATA[ &lt;p&gt;Welcome to Apple.&lt;/p&gt;&lt;p&gt;In today&#39;s episode, ...&lt;/p&gt; ]]>
-            </description>
+            <itunes:summary><![CDATA[&lt;p&gt;Welcome to Apple.&lt;/p&gt;&lt;p&gt;In today&#39;s episode, ...&lt;/p&gt;]]></itunes:summary>
+            <description><![CDATA[&lt;p&gt;Welcome to Apple.&lt;/p&gt;&lt;p&gt;In today&#39;s episode, ...&lt;/p&gt;]]></description>
             <enclosure url="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_extraDescription.mp3" length="27" type="audio/mpeg"/>
             <guid>https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_extraDescription.mp3</guid>
-            <pubDate>Mon, 16 Sep 2024 15:54:45 +0200</pubDate>
+            <pubDate>Mon, 16 Dec 2024 08:38:39 +0100</pubDate>
             <itunes:duration>00:27</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
             <itunes:image href="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/images/Desert.jpg"/>
         </item>
-        <podcast:liveItem status="live" start="Mon Sep 16 15:54:45 CEST 2024" end="Mon Sep 16 15:54:45 CEST 2024">
-            <title>Impact Moderato</title>
-            <description>Welcome to Apple</description>
-            <link>https://ubscom-local-publish.nhe.netcentric.biz/dm/en/responsive-topic-page/components/podcast/podcast-slider-util.html</link>
-            <guid isPermaLink="true">https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_oldDescription.mp3</guid>
-            <podcast:alternateEnclosure type="audio/mpeg" length="27" default="true">
-                <podcast:source uri="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_oldDescription.mp3"/>
-            </podcast:alternateEnclosure>
-            <enclosure url="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_oldDescription.mp3" length="27" type="audio/mpeg"/>
-        </podcast:liveItem>
         <item>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Impact Moderato</itunes:title>
             <title>Impact Moderato</title>
             <itunes:author>Pablo Castelo</itunes:author>
             <itunes:subtitle>Subtitle</itunes:subtitle>
-            <itunes:summary>
-                <![CDATA[ Welcome to Apple ]]>
-            </itunes:summary>
-            <description>
-                <![CDATA[ Welcome to Apple ]]>
-            </description>
+            <itunes:summary><![CDATA[Welcome to Apple]]></itunes:summary>
+            <description><![CDATA[Welcome to Apple]]></description>
             <enclosure url="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_oldDescription.mp3" length="27" type="audio/mpeg"/>
             <guid>https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/components/podcast/MP3_oldDescription.mp3</guid>
-            <pubDate>Mon, 16 Sep 2024 15:54:45 +0200</pubDate>
+            <pubDate>Mon, 16 Dec 2024 08:38:39 +0100</pubDate>
             <itunes:duration>00:27</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
             <itunes:image href="https://ubscom-local-publish.nhe.netcentric.biz/content/dam/dm/images/Desert.jpg"/>
